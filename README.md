@@ -116,7 +116,7 @@ Claude共享帐号通常对使用频率和次数有严格限制。例如，某�
 
 若非万不得已，我们不建议大家使用Claude Pro合租共享帐号！虽然Claude Pro合租帐号拥有不少优势，但对于在日常工作和生活中需要高频使用Claude的用户来说，Claude Pro合租帐号不仅可能泄露历史使用数据，而且每3个小时仅能互动30次，完全无法满足正常需求。
 
-因此，如果你在工作和生活中必须要使用Claude，并且使用频率较高，我们建议参考《<a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>》或《<a href="https://github.com/anyofai/claude-pro">Claude国内购买</a>》等相关文章，获取完全独属于自己的Claude帐号。如果你在工作和生活中，并不一定非Claude不可，我们建议选择ChatGPT Plus帐号。ChatGPT在很多方面的表现与Claude相当，订阅价格也差不多，但是ChatGPT有几个Claude无法取代的优势。
+因此，如果你在工作和生活中必须要使用Claude，并且使用频率较高，我们建议参考《<a href="https://github.com/anyofai/claude-pro">Claude订阅</a>》或《<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>》等相关文章，获取完全独属于自己的Claude帐号。如果你在工作和生活中，并不一定非Claude不可，我们建议选择ChatGPT Plus帐号。ChatGPT在很多方面的表现与Claude相当，订阅价格也差不多，但是ChatGPT有几个Claude无法取代的优势。
 
 首先，ChatGPT的风控相较于Claude更加宽松。许多用户选择购买Claude Pro拼车帐号，主要是因为Claude的封号问题较为严重，稍有不慎就可能被封号，而ChatGPT在这方面更为友好。其次，订阅ChatGPT Plus无需国外手机号，对注册邮箱和科学上网工具的要求也更低。最后，ChatGPT Plus合租帐号的价格比Claude Pro合租帐号也更加实惠。
 
