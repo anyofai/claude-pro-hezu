@@ -6,7 +6,11 @@ Claude（中文名克劳德）由Anthropic公司开发，基于先进的大规�
 
 接下来，我们为大家推荐一个真正安全靠谱的Claude Pro合租平台：<a href="https://nf.video/BTgSc">银河录像局</a>。该平台不仅安全可靠，提供24小时在线客服，价格也非常亲民，Claude共享帐号价格低至8元，大大降低了使用Claude Pro的门槛，让更多用户能够轻松体验这一强大的AI工具。
 
+<blockquote>
+
 注意：如果你想获取一个完全独立的Claude Pro帐号，请查看我们的《<a href="https://github.com/anyofai/claude-pro">国内Claude Pro订阅教程</a>》。在这篇文章中，我们将手把手教你如何快速获取国外虚拟信用卡和国外手机号码，并提供详细的Claude注册与Claude Pro订阅操作步骤，同时还会指导你如何购买一个现成的ChatGPT Pro独立帐号。
+
+</blockquote>
 
 ## Claude Pro合租流程：最可靠的Claude Pro拼车购买渠道推荐
 
