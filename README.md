@@ -24,13 +24,21 @@ Claude（中文名克劳德）由Anthropic公司开发，基于先进的大规�
 
 * 银河录像局官网：https://nf.video/BTgSc
 
+![Claude Pro合租第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-1.png)
+
 ### 第二步：返回网站首页，分别点击“AI服务”和“Claude Pro”。
 
+![Claude Pro共享第二步：返回网站首页，分别点击“AI服务”和“Claude Pro”](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-2.png)
+
 ### 第三步：选择“时长”，并点击“支付宝支付”按钮。
+
+![Claude Pro拼车第三步：选择“时长”，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-3.png)
 
 ### 第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款。
 
 注意：使用优惠码“ANYOFAI”可享九折优惠。
+
+![合租Claude 3.5 Sonnet第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-4.png)
 
 OK，当你完成付款后，接下来你就可以开启Claude Pro拼车之旅啦！不过需要注意的是，Claude Pro共享帐号在使用上存在一定限制。例如，“镜像试用一天卡”允许用户每6个小时内与Claude互动15次；“镜像周卡”允许用户每3个小时内与Claude互动25次；“镜像月卡”允许用户每3个小时内与Claude互动30次。如果你觉得Claude Pro合租共享帐号无法满足你的需求，你也可以选择自己订阅Claude Pro会员，或直接购买现成的Claude Pro独立帐号。更多详情请查看：《<a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>》或《<a href="https://github.com/anyofai/claude-pro">Claude国内购买</a>》。
 
