@@ -1,5 +1,7 @@
 # 最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐（8元起）
 
+<p align="center">最近更新于：2024年11月29日</p>
+
 ![最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
 Claude（中文名克劳德）由Anthropic公司开发，基于先进的大规模预训练语言模型（如Transformer架构），能够根据用户提示完成文本生成、情感分析、代码编写、翻译等多种任务。Claude在对话理解、创意写作和情感分析等方面表现尤为突出，远超绝大多数同类AI工具。Claude的官方订阅价格为20美元/月，对于许多用户来说，这笔费用可能是一个不小的负担。此外，在注册Claude帐号或订阅Claude Pro时，用户需要使用科学上网工具，并且需要使用国外手机号接收验证短信，同时还需使用国外信用卡支付订阅费用，这些要求给国内用户带来了很大的不便。此外，Claude的风控系统非常严格，在中国使用时，封号风险较高，许多用户因此遭遇了账号被封的问题。因此，许多国内用户通过合租Claude Pro帐号的方式，绕过这些潜在问题并减轻费用负担。
