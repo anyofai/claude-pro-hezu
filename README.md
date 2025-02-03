@@ -1,6 +1,6 @@
 # 最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐（8元起）
 
-<p align="center">最近更新于：2025年1月3日</p>
+<p align="center">最近更新于：2025年2月3日</p>
 
 ![最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
