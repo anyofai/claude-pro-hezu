@@ -136,7 +136,7 @@ Claude共享帐号通常对使用频率和次数有严格限制。例如，某�
 
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：本文推荐的Claude Pro代充服务采用的都是纯人工充值方式，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张WildCard虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张野卡YEKA虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
 
