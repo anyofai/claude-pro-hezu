@@ -1,6 +1,6 @@
 # 最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐（8元起）
 
-<p align="center">最近更新于：2025年2月20日</p>
+<p align="center">最近更新于：2025年3月1日</p>
 
 ![最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
@@ -135,6 +135,8 @@ Claude共享帐号通常对使用频率和次数有严格限制。例如，某�
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑ChatGPT Plus共享合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
 
 * <a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>：最安全实惠的奈飞拼车购买平台推荐！我们还为大家解答购买奈飞共享帐号的常见问题！
+
+* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：2025年油管Youtube家庭会员拼车平台推荐！如何以每月12元的价格购买YouTube Premium无广告会员？
 
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：ChatGPT代充安全吗？安全稳定的ChatGPT 4代充值平台推荐！本文推荐的ChatGPT Plus代续费订阅服务稳定可靠，价格便宜，信誉有保障。
 
