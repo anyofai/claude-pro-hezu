@@ -18,15 +18,15 @@ Claude（中文名克劳德）由Anthropic公司开发，基于先进的大规�
 
 ## Claude Pro合租流程：最可靠的Claude Pro拼车购买渠道推荐
 
-虽然我们不太推荐大家使用Claude Pro共享帐号（原因见下文），但如果因某些原因只能选择使用Claude Pro共享帐号的话，我们推荐你首选：银河录像局。
+虽然我们不太推荐大家使用Claude Pro共享账号（原因见下文），但如果因某些原因只能选择使用Claude Pro共享账号的话，我们推荐你首选：<a href="https://nf.video/BTgSc">银河录像局</a>。值得一提的是，银河录像局提供的ChatGPT Plus镜像版还支持未降智的ChatGPT Plus、满血版DeepSeek-R1、马斯克Grok-3、谷歌Gemini-2 Pro等，大家可以查看《<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>》了解更多详情！
 
-银河录像局是一个提供多种流媒体、音乐和AI工具账号合租服务的平台，涵盖Netflix、Disney+、HBO GO、YouTube Premium、Prime Video、Spotify、ChatGPT Plus、MidJourney等多个热门服务。值得注意的是，银河录像局还提供美区Apple ID帐号和Google帐号等服务。此外，自2019年成立以来，银河录像局已稳定运营五六年，不仅拥有ICP经营许可证（浙B2-20230847），还通过备案（备案号：浙ICP备2022036459号），是一个非常可靠的Claude Pro合租平台。
+银河录像局是一个提供多种流媒体、音乐和AI工具账号合租服务的平台，涵盖Netflix、Disney+、HBO Max、YouTube Premium、Prime Video、Spotify、ChatGPT Plus、MidJourney等多个热门服务。其中，通过银河录像局<a href="https://github.com/anyofai/netflix-hezu">合租Netflix</a>是最稳定可靠的选择！值得注意的是，银河录像局还提供美区Apple ID账号和Google账号等服务。自2019年成立以来，银河录像局已稳定运营五年多，不仅拥有ICP经营许可证（浙B2-20230847），还通过备案（备案号：浙ICP备2022036459号），是一个非常可靠的合租平台。
 
-需要注意的是，通过银河录像局购买Claude合租帐号，用户无需担心科学上网、帐号被封等问题，也不需要解决国外手机号和国外信用卡的问题。此外，银河录像局还提供未降智的ChatGPT Plus、**满血版DeepSeek**、马斯克Grok-3、谷歌Gemini-2 Pro。
+需要注意的是，通过银河录像局购买Claude合租账号，用户无需担心科学上网、账号被封等问题，也不需要解决国外手机号和国外信用卡的问题。
 
 ### 第一步：打开银河录像局官网，并使用手机号或微信完成登录。
 
-* 银河录像局官网：https://nf.video/BTgSc
+* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
 ![Claude Pro合租第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-1.png)
 
