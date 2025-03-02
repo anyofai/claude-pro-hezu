@@ -122,7 +122,7 @@ Claude共享帐号通常对使用频率和次数有严格限制。例如，某�
 
 首先，ChatGPT的风控相较于Claude更加宽松。许多用户选择购买Claude Pro拼车帐号，主要是因为Claude的封号问题较为严重，稍有不慎就可能被封号，而ChatGPT在这方面更为友好。其次，订阅ChatGPT Plus无需国外手机号，对注册邮箱和科学上网工具的要求也更低。最后，ChatGPT Plus合租帐号的价格比Claude Pro合租帐号也更加实惠。
 
-如果你想尝试ChatGPT相关服务，请查看《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>》、《<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>》、《<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>》、《<a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>》等相关教程。
+如果你想尝试ChatGPT相关服务，请查看《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>》、《<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>》、《<a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>》等相关教程。
 
 ## Claude Pro合租相关的其他文章：
 
