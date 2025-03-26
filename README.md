@@ -122,11 +122,11 @@ Claude共享帐号通常对使用频率和次数有严格限制。例如，某�
 
 对于中国大陆用户来说，使用Claude并不容易！注册Claude账号时，需要科学上网和国外手机号；订阅Claude Pro会员时，还需要国外信用卡；在使用过程中，Claude账号被封的风险也相当高。针对"我们是否推荐使用Claude Pro合租共享账号"这个问题，我们从以下几个方面为大家解答：
 
-* 如果你在工作和生活中高度依赖AI工具，并且只有Claude Pro才能满足你的需求，那么我们建议你自己动手订阅Claude Pro会员！你可以通过《<a href="https://github.com/anyofai/claude-pro">Claude订阅</a>》一文查看详细的订阅操作流程。
+如果你在工作和生活中高度依赖AI工具，并且只有Claude Pro才能满足你的需求，那么我们建议你自己动手订阅Claude Pro会员！你可以通过《<a href="https://github.com/anyofai/claude-pro">Claude订阅</a>》一文查看详细的订阅操作流程。
 
-* 如果你需要高度依赖AI工具，但不一定非用Claude Pro不可，那么我们建议你尝试ChatGPT Plus。ChatGPT Plus在多方面表现与Claude Pro相当，订阅价格也差不多。但订阅ChatGPT Plus时无需验证手机号，而且风控更宽松，账号被封的情况也很少。你可以通过《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>》、《<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>》、《<a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>》等文章了解更多信息。
+如果你需要高度依赖AI工具，但不一定非用Claude Pro不可，那么我们建议你尝试ChatGPT Plus。ChatGPT Plus在多方面表现与Claude Pro相当，订阅价格也差不多。但订阅ChatGPT Plus时无需验证手机号，而且风控更宽松，账号被封的情况也很少。你可以通过《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>》、《<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>》、《<a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>》等文章了解更多信息。
 
-* 如果你只是偶尔使用Claude Pro，那么可以通过本文推荐的银河录像局或星际放映厅这两个平台合租Claude Pro会员。这两个平台提供的Claude Pro合租服务仅在价格和使用次数上有所区别，在隐私安全保护和账号稳定性方面都表现出众。
+如果你只是偶尔使用Claude Pro，那么可以通过本文推荐的银河录像局或星际放映厅这两个平台合租Claude Pro会员。这两个平台提供的Claude Pro合租服务仅在价格和使用次数上有所区别，在隐私安全保护和账号稳定性方面都表现出众。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
 
