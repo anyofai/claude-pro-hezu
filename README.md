@@ -48,9 +48,9 @@ OK，当你完成付款后，只需点击银河录像局官网导航条中的"�
 
 如果你觉得银河录像局提供的Claude Pro合租共享账号无法满足你的需求，那么你可以选择以下两种解决方案：
 
-* 自己订阅Claude Pro会员：自己动手订阅Claude Pro会员的优势我们在前文已经介绍过了，有需要的同学可以通过《<a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>》一文查看订阅Claude Pro会员的详细操作步骤！
+* **自己订阅Claude Pro会员**：自己动手订阅Claude Pro会员的优势我们在前文已经介绍过了，有需要的同学可以通过《<a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>》一文查看订阅Claude Pro会员的详细操作步骤！
 
-* 购买Claude Pro成品账号：你可以通过"星际放映厅"这个平台购买Claude Pro成品账号（专属会员账号、无任何限制）。而且星际放映厅也提供Claude Pro合租服务，每月价格为55元！有需要的同学可以通过《<a href="https://github.com/anyofai/claude-pro">Claude国内购买</a>》一文查看更多详细信息！
+* **购买Claude Pro成品账号**：你可以通过"星际放映厅"这个平台购买Claude Pro成品账号（专属会员账号、无任何限制）。而且星际放映厅也提供Claude Pro合租服务，每月价格为55元！有需要的同学可以通过《<a href="https://github.com/anyofai/claude-pro">Claude国内购买</a>》一文查看更多详细信息！
 
 ## Claude Pro合租帐号的优势
 
