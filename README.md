@@ -44,15 +44,17 @@ Claude（中文名克劳德）由Anthropic公司开发，是基于先进的大�
 
 ![合租Claude 3.5 Sonnet第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-4.png)
 
-OK，当你完成付款后，只需点击银河录像局官网导航条中的"车票"，即可看到进入Claude Pro的入口，然后就可以正式开始使用Claude Pro的强大功能！
+OK，当你完成付款后，只需点击银河录像局官网导航栏中的“车票”，即可看到进入Claude Pro的入口，然后就可以正式开始使用Claude Pro的强大功能了。
 
-不过我们需要提醒大家的是，银河录像局提供的Claude Pro共享账号在安全和稳定方面绝对没有问题！但它有一定的使用次数限制，比如"镜像试用一天卡"允许用户每6个小时内与Claude互动15次；"镜像月卡"允许用户每3个小时内与Claude互动45次。
+需要提醒大家的是，银河录像局提供的Claude Pro共享账号在安全性和稳定性方面表现非常出色，但使用次数上有一定限制。例如，“镜像试用一天卡”允许用户每6小时内与Claude互动15次，而“镜像月卡”则允许用户每3小时内与Claude互动45次。
 
-如果你觉得银河录像局提供的Claude Pro合租共享账号无法满足你的需求，那么你可以选择以下两种解决方案：
+如果你觉得银河录像局提供的Claude Pro合租共享账号无法满足你的需求，还可以考虑以下三种解决方案：
 
-* **方案一**、自己订阅Claude Pro会员：自己动手订阅Claude Pro会员的优势我们在前文已经介绍过了，有需要的同学可以通过《<a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>》一文查看订阅Claude Pro会员的详细操作步骤！
+* **方案一**：自己订阅Claude Pro会员。自己动手订阅Claude Pro会员的优势，我们在前文已经介绍过。如果有需要，可以参考《<a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>》一文，查看详细的操作步骤。
 
-* **方案二**、购买Claude Pro成品账号：你可以通过"星际放映厅"这个平台购买Claude Pro成品账号（专属会员账号、无任何限制）。而且星际放映厅也提供Claude Pro合租服务，每月价格为55元！有需要的同学可以通过《<a href="https://github.com/anyofai/claude-pro">Claude国内购买</a>》一文查看更多详细信息！
+* **方案二**：订阅Poe会员。通过Poe平台，不仅可以自由使用Claude Pro的相关服务，还能同时使用ChatGPT Plus、Gemini、Grok、DeepSeek等最新的AI工具。更多详情请参见《<a href="https://github.com/anyofai/poe">Poe订阅</a>》一文。
+
+* **方案三**：使用WildCard野卡提供的2233随心用服务。通过该服务，用户不仅可以使用Claude Pro会员，还能使用ChatGPT Plus会员。更重要的是，WildCard野卡的2233随心用服务无需科学上网，国内网络即可直接使用。更多详情请参考《<a href="https://github.com/anyofai/claude-pro">Claude Pro购买<a>》一文中的“Claude Pro合租平台推荐”部分。
 
 ## Claude Pro合租帐号的优势
 
