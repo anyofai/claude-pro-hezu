@@ -86,25 +86,7 @@ OK，当你完成付款后，只需点击银河录像局官网导航栏中的“
 
 总的来说，Claude Pro合租帐号凭借免去科学上网、注册流程、手机号验证和信用卡支付等繁琐步骤的便利性，以及突出的价格优势和安全保障，为用户提供了一种简单、安全且经济高效的使用方案。
 
-## Claude Pro共享帐号的缺点
-
-虽然共享Claude Pro帐号可以以较低的成本让用户体验其强大功能，但这种方式也伴随着一些不可忽视的缺点。以下是使用Claude Pro共享帐号时需要注意的几个主要问题：
-
-* 其他用户可能会看到你的使用历史记录
-
-Claude共享帐号的一个显著缺点是隐私保护不足。在共享环境中，所有用户共用同一个Claude Pro帐号，这意味着你的对话记录、任务生成记录以及其他操作可能被他人查看。这对重视隐私的用户来说是一个重大隐患，尤其当使用内容涉及敏感信息时，隐私风险更为突出。
-
-* 其他用户可能会删除你的训练记录
-
-Claude Pro共享帐号的另一个常见问题是用户之间的操作可能相互干扰。例如，当你使用Claude Pro进行任务训练（如Claude 3.5 Sonnet的训练）时，其他用户可能无意或故意删除你的训练记录，导致工作成果丢失。尤其是在需要长期训练或保存任务的情况下，这种风险会显著影响用户体验。
-
-* Claude共享帐号会有使用限制
-
-Claude共享帐号通常对使用频率和次数有严格限制。例如，某些共享帐号可能规定每3个小时最多只能与Claude互动30次。这种限制可能会对需要频繁使用Claude完成大量生成或测试任务的用户造成困扰。如果你需要更高的使用频率或更灵活的操作环境，Claude Pro共享帐号可能难以完全满足你的需求。
-
-总的来说，Claude Pro共享帐号虽然在价格上具有显著优势，但隐私风险、记录丢失的可能性以及使用限制等问题可能会对部分用户的体验造成影响。如果你对隐私和使用自由度有较高要求，建议选择更稳定的使用方式，例如直接订阅独立的Claude Pro帐号。
-
-## 合租Claude 3.5 Sonnet的注意事项
+## 国内拼车合租Claude 3.5 Sonnet的注意事项
 
 在选择合租Claude 3.5 Sonnet服务时，除了关注价格和使用限制外，用户还需要留意一些关键事项，以确保使用体验的安全与流畅。以下是几个重要的注意点：
 
@@ -133,8 +115,6 @@ Claude共享帐号通常对使用频率和次数有严格限制。例如，某�
 如果你只是偶尔使用Claude Pro，那么可以通过本文推荐的银河录像局或星际放映厅这两个平台合租Claude Pro会员。这两个平台提供的Claude Pro合租服务仅在价格和使用次数上有所区别，在隐私安全保护和账号稳定性方面都表现出众。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网<a/></p>
-
-<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网<a/></p>
 
 此外，银河录像局除了提供ChatGPT Plus和Claude Pro合租服务外，还提供<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>、<a href="https://github.com/anyofai/spotify-hezu">Spotify拼车</a>、<a href="https://github.com/anyofai/midjourney-hezu">Midjourney拼车</a>等多种服务！
 
