@@ -38,7 +38,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 ![Claude Pro拼车合租重要提示：星际放映厅也提供Claude Pro原生独立帐号](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-4.png)
 
-值得注意的是，无论你选择的是"Claude Pro帐号购买"服务，还是"Claude Pro共享合租"服务，星际放映厅都提供完善的售后支持，有任何问题都可以第一时间找在线客服解决。
+值得注意的是，无论你选择的是"Claude Pro帐号购买"服务，还是"Claude Pro共享账号"服务，星际放映厅都提供完善的售后支持，有任何问题都可以第一时间找在线客服解决。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
