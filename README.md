@@ -74,9 +74,9 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 ## 我们是否推荐大家使用Claude Pro合租共享帐号？
 
-对于中国大陆用户来说，使用Claude并不容易！注册Claude账号时，需要科学上网和国外手机号；订阅Claude Pro会员时，还需要国外信用卡；在使用过程中，Claude账号被封的风险也相当高。所以，对于绝大多数用户来说，我们建议大家直接选择由银河录像局提供的Claude Pro合租帐号。
+对于中国大陆用户来说，使用Claude并不容易！注册Claude账号时，需要科学上网和国外手机号；订阅Claude Pro会员时，还需要国外信用卡；在使用过程中，Claude账号被封的风险也相当高。所以，对于绝大多数用户来说，我们建议大家直接选择由星际放映厅提供的Claude Pro合租帐号。
 
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
 除了提供Claude Pro合租服务之外，银河录像局还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>、<a href="https://github.com/anyofai/spotify-hezu">Spotify拼车</a>、<a href="https://github.com/anyofai/midjourney-hezu">Midjourney拼车</a>等多种服务！
 
