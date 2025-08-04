@@ -28,7 +28,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 ![Claude Pro合租第二步：返回星际放映厅官网首页，点击"AI工具箱"并选择"Claude Pro帐号购买"服务](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-2.png)
 
-### 第三步：选择"共享合租"规格，填写优惠码"ANYOFAI"，点击"支付订单"按钮。
+### 第三步：选择"共享帐号"服务，填写优惠码"ANYOFAI"，点击"支付订单"按钮。
 
 注意：使用优惠码"ANYOFAI"可享九折优惠！
 
