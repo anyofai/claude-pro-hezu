@@ -1,4 +1,4 @@
-# 最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐(提供原生Claude Pro独立帐号)(8元起)！
+# 最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐！也提供原生Claude Pro独立帐号！
 
 <p align="center">最近更新于：2025年8月4日</p>
 
