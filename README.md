@@ -22,25 +22,27 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 
-![Claude Pro合租第一步：打开星际放映厅官网，使用手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-1.png)
+![通过星际放映厅合租Claude Pro帐号第一步：打开星际放映厅官网，使用手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-1.png)
 
 ### 第二步：返回星际放映厅官网首页，点击"AI工具箱"并选择"Claude Pro帐号购买"服务。
 
-![Claude Pro合租第二步：返回星际放映厅官网首页，点击"AI工具箱"并选择"Claude Pro帐号购买"服务](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-2.png)
+![通过星际放映厅合租Claude Pro帐号第二步：返回星际放映厅官网首页，点击"AI工具箱"并选择"Claude Pro帐号购买"服务](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-2.png)
 
 ### 第三步：选择"共享帐号"服务，填写优惠码"ANYOFAI"，点击"支付订单"按钮。
 
 注意：使用优惠码"ANYOFAI"可享九折优惠！
 
-![Claude Pro合租第三步：选择"共享合租"规格，填写优惠码"ANYOFAI"，点击"支付订单"按钮](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-3.png)
+![通过星际放映厅合租Claude Pro帐号第三步：选择"共享合租"规格，填写优惠码"ANYOFAI"，点击"支付订单"按钮](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-3.png)
 
 **重要提示**：星际放映厅也提供Claude Pro原生独立帐号，即星际放映厅会直接提供一个已经完成订阅充值的Claude Pro帐号，用户拿到后即可直接使用，能够使用Claude Pro的所有功能和服务，没有任何限制。
 
-![Claude Pro拼车合租重要提示：星际放映厅也提供Claude Pro原生独立帐号](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-4.png)
+![通过星际放映厅合租Claude Pro帐号的重要提示：星际放映厅也提供Claude Pro原生独立帐号](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%90%88%E7%A7%9F-4.png)
 
 值得注意的是，无论你选择的是"Claude Pro帐号购买"服务，还是"Claude Pro共享账号"服务，星际放映厅都提供完善的售后支持，有任何问题都可以第一时间找在线客服解决。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
+
+****
 
 ## 2025年Claude Pro拼车合租备选平台：<a href="https://nf.video/BTgSc">银河录像局</a>
 
@@ -48,7 +50,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 银河录像局目前已累计完成超1000万单交易，服务用户突破100万，覆盖全球100多个国家和地区。在国内外流媒体及AI工具合租领域，银河录像局一直稳坐龙头老大的位置。银河录像局支持Netflix、Disney+、Spotify、YouTube、HBO、Apple TV+、ChatGPT Plus、Claude Pro、Midjourney、SuperGrok等流媒体和AI工具的合租与代充值，产品线极其丰富。
 
-银河录像局的最大优势在于，合租Claude Pro的话，用户无需科学上网即可直接使用，省去了繁琐的注册与验证流程，大大降低了使用门槛。而且银河录像局还设有7×24小时在线客服，能够快速响应并妥善解决用户疑问和售后问题。无论是账号安全、平台合规性还是售后保障，银河录像局都以行业高标准严格自律，大家可以放心使用。
+银河录像局的最大优势在于，合租Claude Pro的话，用户**无需科学上网**即可直接使用，省去了繁琐的注册与验证流程，大大降低了使用门槛。而且银河录像局还设有7×24小时在线客服，能够快速响应并妥善解决用户疑问和售后问题。无论是账号安全、平台合规性还是售后保障，银河录像局都以行业高标准严格自律，大家可以放心使用。
 
 而在价格和服务体验方面，银河录像局同样具备极强的竞争力。无论是合租Claude Pro帐号，还是ChatGPT Plus、Midjourney、Grok等AI工具，都以高性价比和稳定的服务体验受到用户广泛好评。
 
@@ -56,15 +58,23 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
+![通过银河录像局合租Claude Pro帐号第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-1.png)
+
 ### 第二步：在官网首页，分别点击“AI服务”和“Claude Pro”。
+
+![通过银河录像局合租Claude Pro帐号第二步：在官网首页，分别点击“AI服务”和“Claude Pro”](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-2-1.png)
 
 ### 第三步：选择一个套餐，并点击“支付宝支付”按钮。
 
 银河录像局提供的“镜像试用一天卡”和“镜像月卡”**无需科学上网、无需注册Claude帐号，也没有封号的风险**，但有使用次数的限制，比较适合Claude轻度用户。
 
+![通过银河录像局合租Claude Pro帐号第三步：选择一个套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-3-1.png)
+
 ### 第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款。
 
 注意：使用优惠码“ANYOFAI”可享九折优惠。
+
+![通过银河录像局合租Claude Pro帐号第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-4.png)
 
 最后，当你完成付款后只需点击银河录像局官网导航栏中的“车票”，即可看到进入Claude Pro的入口，然后就可以正式开始使用Claude Pro的强大功能了。
 
