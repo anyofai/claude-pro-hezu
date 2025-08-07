@@ -1,6 +1,6 @@
 # 最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐（8元起）！也提供原生Claude Pro独立帐号！
 
-<p align="center">最近更新于：2025年8月5日</p>
+<p align="center">最近更新于：2025年8月7日</p>
 
 ![最新Claude Pro合租攻略：最可靠的Claude Pro拼车购买渠道推荐(提供原生Claude Pro独立帐号)(8元起)](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
@@ -60,7 +60,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 ![通过银河录像局合租Claude Pro帐号第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-1.png)
 
-### 第二步：在官网首页，分别点击“AI服务”和“Claude Pro”。
+### 第二步：在银河录像局官网首页，分别点击“AI服务”和“Claude Pro”。
 
 ![通过银河录像局合租Claude Pro帐号第二步：在官网首页，分别点击“AI服务”和“Claude Pro”](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-2-1.png)
 
