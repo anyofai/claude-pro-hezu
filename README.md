@@ -10,7 +10,54 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 注意：因为Claude的风控系统特别严，国内用户使用Claude时封号概率非常高，所以市面上提供“Claude Pro合租”服务和“Claude Pro原生独立帐号”服务的商家特别少，大家且用且珍惜吧。
 
-## 2025年Claude Pro拼车合租首选平台：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
+## 2025年Claude Pro拼车合租首选平台：<a href="https://nf.video/BTgSc">银河录像局</a>
+
+银河录像局隶属于杭州崇宇信息科技有限公司，成立于2019年，是国内流媒体与AI工具合租与代充领域的资深平台。该平台已获得工信部ICP备案（浙ICP备2022036459号）及ICP经营许可证（浙B2-20230847），相关资质公开透明，所有服务均合法合规，为用户提供坚实的安全保障。
+
+银河录像局目前已累计完成超1000万单交易，服务用户突破100万，覆盖全球100多个国家和地区。在国内外流媒体及AI工具合租领域，银河录像局一直稳居龙头地位。银河录像局支持Netflix、Disney+、Spotify、YouTube、HBO、Apple TV+、ChatGPT Plus、Claude Pro、Midjourney、SuperGrok等流媒体和AI工具的合租与代充值，产品线十分丰富。
+
+银河录像局的最大优势在于，**购买Claude Pro共享账号**和**Claude Code镜像服务**后，用户**无需科学上网**即可直接使用，省去了繁琐的注册与验证流程，大大降低了使用门槛，**也不会有封号风险**，而且**价格非常实惠**。此外，银河录像局还提供7×24小时在线客服，能够快速响应并妥善解决用户的疑问和售后问题，大家可以放心使用。
+
+### 第一步：打开银河录像局官网，并使用手机号或微信完成登录。
+
+* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
+
+![通过银河录像局合租Claude Pro帐号第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-1.png)
+
+### 第二步：在官网首页点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。
+
+![第二步：在官网首页点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%90%88%E7%A7%9F-5.png)
+
+### 第三步：根据需要，选择Claude Pro镜像服务套餐或Claude Code镜像服务套餐。
+
+* Claude Pro镜像试用天卡，价格低至8元，每6小时可使用15次。
+* Claude Pro镜像月卡，价格为99元/月，每3小时可使用45次。
+
+注意：银河录像局提供的“Claude Pro镜像试用天卡”和“Claude Pro镜像月卡”，**无需科学上网、无需注册Claude账号，也没有封号的风险**，但有使用次数的限制，比较适合Claude的轻度用户。此外，无论你购买的是哪个套餐，银河录像局都提供完善的售后支持。
+
+![通过银河录像局合租Claude Pro帐号第三步：选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%90%88%E7%A7%9F-6.png)
+
+* Claude Code体验天卡，价格低至9.9元，提供1000积分，可使用约100次。
+* Claude Code标准版，价格为399元/月，提供5500积分，可使用约600次。
+* Claude Code专业版，价格为799元/月，提供12000积分，可使用约1500次。
+
+注意：Claude Code镜像服务支持Claude 4 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code镜像服务**无需翻墙，也没有封号风险，价格比原版更便宜**。用户购买Claude Code镜像服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在进入银河录像局官网购买Claude Code镜像服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！
+
+![通过银河录像局合租Claude Pro帐号第三步：选择Claude Code镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%90%88%E7%A7%9F-7.png)
+
+### 第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款。
+
+注意：使用优惠码“ANYOFAI”可享九折优惠。
+
+![通过银河录像局合租Claude Pro帐号第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-4.png)
+
+最后，如果你购买的是Claude Pro镜像服务，那么当你完成付款后只需点击银河录像局官网导航栏中的“车票”，即可看到进入Claude Pro的入口，然后就可以正式开始使用Claude Pro的强大功能了。
+
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
+
+****
+
+## 2025年Claude Pro拼车合租备选平台：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
 星际放映厅是一家专注于流媒体和AI工具合租与代充值的专业平台，成立于2023年，已获得浙江省ICP备案认证，平台运营稳定且合法合规，大家可以放心使用。星际放映厅提供的服务也非常丰富，涵盖Netflix、Disney+、Spotify、YouTube Premium、HBO等主流流媒体合租服务，同时还提供ChatGPT Plus、Claude Pro、POE、SuperGrok、Midjourney等热门AI工具的合租和代充值服务。
 
@@ -41,44 +88,6 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 值得注意的是，无论你选择的是"Claude Pro帐号购买"服务，还是"Claude Pro共享账号"服务，星际放映厅都提供完善的售后支持，有任何问题都可以第一时间找在线客服解决。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
-
-****
-
-## 2025年Claude Pro拼车合租备选平台：<a href="https://nf.video/BTgSc">银河录像局</a>
-
-银河录像局隶属于杭州崇宇信息科技有限公司，成立于2019年，是国内流媒体与AI工具合租与代充领域的资深平台。平台已获得工信部ICP备案（浙ICP备2022036459号）及ICP经营许可证（浙B2-20230847），相关资质公开透明，所有服务均合法合规，为用户提供坚实的安全保障。
-
-银河录像局目前已累计完成超1000万单交易，服务用户突破100万，覆盖全球100多个国家和地区。在国内外流媒体及AI工具合租领域，银河录像局一直稳坐龙头老大的位置。银河录像局支持Netflix、Disney+、Spotify、YouTube、HBO、Apple TV+、ChatGPT Plus、Claude Pro、Midjourney、SuperGrok等流媒体和AI工具的合租与代充值，产品线极其丰富。
-
-银河录像局的最大优势在于，合租Claude Pro的话，用户**无需科学上网**即可直接使用，省去了繁琐的注册与验证流程，大大降低了使用门槛。而且银河录像局还设有7×24小时在线客服，能够快速响应并妥善解决用户疑问和售后问题。无论是账号安全、平台合规性还是售后保障，银河录像局都以行业高标准严格自律，大家可以放心使用。
-
-而在价格和服务体验方面，银河录像局同样具备极强的竞争力。无论是合租Claude Pro帐号，还是ChatGPT Plus、Midjourney、Grok等AI工具，都以高性价比和稳定的服务体验受到用户广泛好评。
-
-### 第一步：打开银河录像局官网，并使用手机号或微信完成登录。
-
-* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
-
-![通过银河录像局合租Claude Pro帐号第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-1.png)
-
-### 第二步：在银河录像局官网首页，分别点击“AI服务”和“Claude Pro”。
-
-![通过银河录像局合租Claude Pro帐号第二步：在官网首页，分别点击“AI服务”和“Claude Pro”](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-2-1.png)
-
-### 第三步：选择一个套餐，并点击“支付宝支付”按钮。
-
-银河录像局提供的“镜像试用一天卡”和“镜像月卡”**无需科学上网、无需注册Claude帐号，也没有封号的风险**，但有使用次数的限制，比较适合Claude轻度用户。
-
-![通过银河录像局合租Claude Pro帐号第三步：选择一个套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-3-1.png)
-
-### 第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款。
-
-注意：使用优惠码“ANYOFAI”可享九折优惠。
-
-![通过银河录像局合租Claude Pro帐号第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-4.png)
-
-最后，当你完成付款后只需点击银河录像局官网导航栏中的“车票”，即可看到进入Claude Pro的入口，然后就可以正式开始使用Claude Pro的强大功能了。
-
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
 ****
 
