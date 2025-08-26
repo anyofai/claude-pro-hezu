@@ -1,6 +1,6 @@
 # 最新Claude Pro合租攻略：最靠谱的Claude Pro拼车购买渠道推荐(8元起)！另有Claude Code镜像服务(9.9元起)！
 
-<p align="center">最近更新于：2025年8月25日</p>
+<p align="center">最近更新于：2025年8月26日</p>
 
 ![最新Claude Pro合租攻略：最靠谱的Claude Pro拼车购买渠道推荐(8元起)！另有Claude Code镜像服务(9.9元起)！](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
@@ -127,7 +127,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
-除了提供Claude Pro合租服务之外，银河录像局还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>、<a href="https://github.com/anyofai/spotify-hezu">Spotify拼车</a>、<a href="https://github.com/anyofai/midjourney-hezu">Midjourney拼车</a>等多种服务！
+除了提供Claude Pro合租服务之外，银河录像局还提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>、<a href="https://github.com/anyofai/spotify-hezu">Spotify拼车</a>、<a href="https://github.com/anyofai/midjourney-hezu">Midjourney拼车</a>等多种服务！
 
 ## Claude Pro合租相关的其他文章：
 
@@ -143,7 +143,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-4和Gemini-2 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
-* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
+* <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
 * <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
 
 * <a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>：详细解答“WildCard野卡怎么样”和“WildCard野卡安全吗”等常见问题。
