@@ -6,7 +6,7 @@
 
 Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能助手，在处理长文本、复杂对话和信息提炼方面表现非常出色，能够一次性理解和分析大量内容。无论是文档总结、数据整理、复杂推理还是高质量的写作和生成代码，Claude都能胜任。和同类AI相比，Claude不仅创造力强，还能更准确地理解用户意图，输出更加可靠、贴合需求的内容。它响应速度快，交互自然，抗“幻觉”能力也很强，因此被广泛应用于写作、学习、研究和数据分析等多个场景。
 
-然而，当WildCard野卡被迫停止服务之后，国内用户用于订阅Claude Pro会员的最主要方式也被掐断了。如今国内用户若想继续使用Claude Pro会员，只能选择“合租Claude Pro”、“<a href="https://github.com/anyofai/claude-pro">购买Claude Pro帐号</a>”、“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”。
+然而，当WildCard野卡被迫停止服务之后，国内用户用于订阅Claude Pro会员的最主要方式也被掐断了。如今国内用户若想继续使用Claude Pro会员，只能选择“Claude Pro合租”、“<a href="https://github.com/anyofai/claude-pro">购买Claude Pro帐号</a>”、“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”。
 
 注意：因为Claude的风控系统特别严，国内用户使用Claude时封号概率非常高，所以市面上提供“Claude Pro合租”服务和“Claude Pro原生独立帐号”服务的商家特别少，大家且用且珍惜吧。
 
