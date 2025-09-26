@@ -1,8 +1,8 @@
-# 最新Claude Pro合租攻略：最靠谱的Claude Pro拼车购买渠道推荐(8元起)！另有Claude Code镜像服务(9.9元起)！
+# 最新Claude Pro合租攻略：最靠谱的Claude Pro拼车购买渠道推荐(8元起)！另有Claude Code中转服务(9.9元起)！
 
-<p align="center">最近更新于：2025年9月17日</p>
+<p align="center">最近更新于：2025年9月26日</p>
 
-![最新Claude Pro合租攻略：最靠谱的Claude Pro拼车购买渠道推荐(8元起)！另有Claude Code镜像服务(9.9元起)！](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
+![最新Claude Pro合租攻略：最靠谱的Claude Pro拼车购买渠道推荐(8元起)！另有Claude Code中转服务(9.9元起)！](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
 Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能助手，在处理长文本、复杂对话和信息提炼方面表现非常出色，能够一次性理解和分析大量内容。无论是文档总结、数据整理、复杂推理还是高质量的写作和生成代码，Claude都能胜任。和同类AI相比，Claude不仅创造力强，还能更准确地理解用户意图，输出更加可靠、贴合需求的内容。它响应速度快，交互自然，抗“幻觉”能力也很强，因此被广泛应用于写作、学习、研究和数据分析等多个场景。
 
@@ -16,7 +16,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 银河录像局目前已累计完成超1000万单交易，服务用户突破100万，覆盖全球100多个国家和地区。在国内外流媒体及AI工具合租领域，银河录像局一直稳居龙头地位。银河录像局支持Netflix、Disney+、Spotify、YouTube、HBO、Apple TV+、ChatGPT Plus、Claude Pro、Midjourney、SuperGrok等流媒体和AI工具的合租与代充值，产品线十分丰富。
 
-银河录像局的最大优势在于，**购买Claude Pro共享账号**和**Claude Code镜像服务**后，用户**无需科学上网**即可直接使用，省去了繁琐的注册与验证流程，大大降低了使用门槛，**也不会有封号风险**，而且**价格非常实惠**。此外，银河录像局还提供7×24小时在线客服，能够快速响应并妥善解决用户的疑问和售后问题，大家可以放心使用。
+银河录像局的最大优势在于，**购买Claude Pro共享账号**和**Claude Code中转服务**后，用户**无需科学上网**即可直接使用，省去了繁琐的注册与验证流程，大大降低了使用门槛，**也不会有封号风险**，而且**价格非常实惠**。此外，银河录像局还提供7×24小时在线客服，能够快速响应并妥善解决用户的疑问和售后问题，大家可以放心使用。
 
 ### 第一步：打开银河录像局官网，并使用手机号或微信完成登录。
 
@@ -28,7 +28,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 ![第二步：在官网首页点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%90%88%E7%A7%9F-5.png)
 
-### 第三步：根据需要，选择Claude Pro镜像服务套餐或Claude Code镜像服务套餐。
+### 第三步：根据需要，选择Claude Pro镜像服务套餐或Claude Code中转服务套餐。
 
 * Claude Pro镜像试用天卡，价格低至8元，每6小时可使用15次。
 * Claude Pro镜像月卡，价格为99元/月，每3小时可使用45次。
@@ -41,9 +41,9 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 * Claude Code标准版，价格为399元/月，提供5500积分，可使用约600次。
 * Claude Code专业版，价格为799元/月，提供12000积分，可使用约1500次。
 
-注意：Claude Code镜像服务支持Claude 4 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code镜像服务**无需翻墙，也没有封号风险，价格比原版更便宜**。用户购买Claude Code镜像服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在进入银河录像局官网购买Claude Code镜像服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！
+注意：Claude Code中转服务支持Claude 4 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code中转服务**无需翻墙，也没有封号风险，价格比原版更便宜**。用户购买Claude Code中转服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在进入银河录像局官网购买Claude Code中转服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！
 
-![通过银河录像局合租Claude Pro帐号第三步：选择Claude Code镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%90%88%E7%A7%9F-7.png)
+![通过银河录像局合租Claude Pro帐号第三步：选择Claude Code中转服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%90%88%E7%A7%9F-7.png)
 
 ### 第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款。
 
