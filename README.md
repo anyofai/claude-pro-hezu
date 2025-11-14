@@ -37,7 +37,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 注意：银河录像局提供的“Claude Pro镜像试用天卡”和“Claude Pro镜像月卡”，**无需科学上网、无需注册Claude账号，也没有封号的风险**，但有使用次数的限制，比较适合Claude的轻度用户。此外，无论你购买的是哪个套餐，银河录像局都提供完善的售后支持。
 
-![通过银河录像局合租Claude Pro账号第三步：选择Claude Code中转服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Code-%E6%8B%BC%E8%BD%A6-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
+![通过银河录像局合租Claude Pro账号第三步：选择Claude Code拼车服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Code-%E6%8B%BC%E8%BD%A6-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
 * Claude Code拼车Pro版：299元/月
 * Claude Code拼车Max版：599元/月
@@ -45,11 +45,9 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 注意：Claude Code拼车服务支持Claude 4.5 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code拼车服务**无需翻墙，也没有封号风险，价格比原版更便宜**。用户购买Claude Code拼车服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。
 
-### 第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款。
+### 第四步：再次确认套餐细节并使用支付宝完成付款。
 
-注意：使用优惠码“ANYOFAI”可享九折优惠。
-
-![通过银河录像局合租Claude Pro账号第四步：输入优惠码“ANYOFAI”并使用支付宝完成付款](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude%20Pro%E5%90%88%E7%A7%9F-4.png)
+![通过银河录像局合租Claude Pro账号第四步：再次确认套餐细节并使用支付宝完成付款。](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
 最后，如果你购买的是Claude Pro镜像服务，那么当你完成付款后只需点击银河录像局官网导航栏中的“车票”，即可看到进入Claude Pro的入口，然后就可以正式开始使用Claude Pro的强大功能了。
 
