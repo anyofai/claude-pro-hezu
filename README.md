@@ -42,7 +42,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 * Claude Code标准版：299元/月
 * Claude Code专业版：599元/月
 
-注意：Claude Code中转服务支持Claude 4 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code中转服务**无需翻墙，也没有封号风险，价格比原版更便宜**。用户购买Claude Code中转服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在进入银河录像局官网购买Claude Code中转服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！
+注意：Claude Code中转服务支持Claude 4.5 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code中转服务**无需翻墙，也没有封号风险，价格比原版更便宜**。用户购买Claude Code中转服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在进入银河录像局官网购买Claude Code中转服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！
 
 ![通过银河录像局合租Claude Pro账号第三步：选择Claude Code中转服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro%E5%90%88%E7%A7%9F-7-1.png)
 
