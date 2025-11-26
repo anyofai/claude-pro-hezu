@@ -43,7 +43,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 * Claude Code拼车Max版：599元/月
 * Claude Code拼车Ultra版：999元/月
 
-注意：Claude Code拼车服务支持Claude 4.5 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code拼车服务无需翻墙，也没有封号风险，价格比原版更便宜。用户购买Claude Code拼车服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。
+注意：Claude Code拼车服务支持Claude 4.5 Sonnet、Claude Opus 4.5等模型。此外，Claude Code拼车服务无需翻墙，也没有封号风险，价格比原版更便宜。用户购买Claude Code拼车服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。
 
 ### 第四步：再次确认套餐细节并使用支付宝完成付款。
 
