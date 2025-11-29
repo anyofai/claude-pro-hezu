@@ -1,6 +1,6 @@
 # 最新Claude Pro合租攻略：最靠谱的Claude Pro拼车购买渠道推荐(14元起)！另有Claude Code拼车服务！
 
-<p align="center">最近更新于：2025年11月26日</p>
+<p align="center">最近更新于：2025年11月29日</p>
 
 ![最新Claude Pro合租攻略：最靠谱的Claude Pro拼车购买渠道推荐(14元起)！另有Claude Code拼车服务！](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
