@@ -22,22 +22,22 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-![通过银河录像局合租Claude Pro账号第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
+![Claude拼车/Claude Code拼车第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
 ### 第二步：在官网首页点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。
 
-![第二步：在官网首页点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
+![Claude拼车/Claude Code拼车第二步：在官网首页点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
 
 ### 第三步：根据需要，选择Claude Pro镜像服务套餐或Claude Code拼车服务套餐。
 
-![通过银河录像局合租Claude Pro账号第三步：选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
+![Claude拼车/Claude Code拼车第三步：选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
 * Claude Pro镜像试用天卡，价格低至14元，每6小时可使用15次。
 * Claude Pro镜像月卡，价格为130元/月，每3小时可使用45次。
 
 注意：银河录像局提供的“Claude Pro镜像试用天卡”和“Claude Pro镜像月卡”，无需科学上网、无需注册Claude账号，也没有封号的风险，但有使用次数的限制，比较适合Claude的轻度用户。此外，无论你购买的是哪个套餐，银河录像局都提供完善的售后支持。
 
-![通过银河录像局合租Claude Pro账号第三步：选择Claude Code拼车服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Code-%E6%8B%BC%E8%BD%A6-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
+![Claude拼车/Claude Code拼车第三步：选择Claude Code拼车服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Code-%E6%8B%BC%E8%BD%A6-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
 * Claude Code拼车Pro版：299元/月
 * Claude Code拼车Max版：599元/月
@@ -47,7 +47,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 
 ### 第四步：再次确认套餐细节并使用支付宝完成付款。
 
-![通过银河录像局合租Claude Pro账号第四步：再次确认套餐细节并使用支付宝完成付款。](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
+![Claude拼车/Claude Code拼车第四步：再次确认套餐细节并使用支付宝完成付款。](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/Claude-Pro-%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
 最后，如果你购买的是Claude Pro镜像服务，那么当你完成付款后只需点击银河录像局官网导航栏中的“车票”，即可看到进入Claude Pro的入口，然后就可以正式开始使用Claude Pro的强大功能了。
 
