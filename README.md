@@ -1,6 +1,6 @@
 # 2026年最新Claude合租攻略：最靠谱的Claude拼车(14元起)和Claude Code拼车(299元/月)渠道推荐！
 
-<p align="center">最近更新于：2026年1月19日</p>
+<p align="center">最近更新于：2026年1月24日</p>
 
 ![最新Claude合租攻略：最靠谱的Claude拼车(14元起)和Claude Code拼车(299元/月)渠道推荐！](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
