@@ -1,6 +1,6 @@
 # 2026年最新Claude合租攻略：最靠谱的Claude拼车(14元起)和Claude Code拼车(299元/月)渠道推荐！
 
-<p align="center">最近更新于：2026年1月25日</p>
+<p align="center">最近更新于：2026年2月11日</p>
 
 ![最新Claude合租攻略：最靠谱的Claude拼车(14元起)和Claude Code拼车(299元/月)渠道推荐！](https://raw.githubusercontent.com/anyofai/claude-pro-hezu/refs/heads/main/image/claude%E5%90%88%E7%A7%9F.png)
 
@@ -43,7 +43,7 @@ Claude（中文名克劳德）是Anthropic公司推出的新一代人工智能�
 * Claude Code拼车Max版：599元/月
 * Claude Code拼车Ultra版：999元/月
 
-注意：Claude Code拼车服务支持Claude 4.5 Sonnet、Claude Opus 4.5等模型。此外，Claude Code拼车服务无需翻墙，也没有封号风险，价格比原版更便宜。用户购买Claude Code拼车服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。
+注意：Claude Code拼车服务支持Claude 4.5 Sonnet、Claude Opus 4.6等模型。此外，Claude Code拼车服务无需翻墙，也没有封号风险，价格比原版更便宜。用户购买Claude Code拼车服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。
 
 ### 第四步：再次确认套餐细节并使用支付宝完成付款。
 
